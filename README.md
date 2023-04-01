@@ -1,2 +1,1 @@
-# clock_project
-Created with CodeSandbox
+frist README
